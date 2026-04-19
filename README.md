@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there, I'm Raees Sahith Samsudeen
 
-<!--
-**raeessahithsamsudeen7/raeessahithsamsudeen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who enjoys building projects and learning new technologies, especially in AI and web development.
+
+🔭 Currently working on: Building a bakery website that integrates AI features to enhance user experience
+🌱 Learning: Node.js and React
+👯 Open to collaborate on: Coding projects and software development ideas
+💬 Ask me about: AI and P
+⚡ Fun fact: I love PCs 💻
+🛠️ Tech Stack
+- Languages: JavaScript, HTML, C++
+- Frameworks: React, Node.js
+- Tools & Platforms: Git, Antigravity, LinkedIn
+
+🌐 Connect With Me
+LinkedIn: https://www.linkedin.com/in/raees-sahith-samsudeen
+Email: raeessamsudeen@gmail.com
