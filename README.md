@@ -14,8 +14,9 @@ I'm a passionate developer who enjoys building projects and learning new technol
 🛠️ Tech Stack
 - Languages: JavaScript, HTML, C++
 - Frameworks: React, Node.js
-- Tools & Platforms: Git, Antigravity, LinkedIn
+- Tools & Platforms: Git, Antigravity
 
 🌐 Connect With Me
 LinkedIn: https://www.linkedin.com/in/raees-sahith-samsudeen
+
 Email: raeessamsudeen@gmail.com
