@@ -7,11 +7,17 @@ Welcome to my GitHub profile!
 I'm a passionate developer who enjoys building projects and learning new technologies, especially in AI and web development.
 
 🔭 Currently working on: Building a bakery website that integrates AI features to enhance user experience
+
 🌱 Learning: Node.js and React
+
 👯 Open to collaborate on: Coding projects and software development ideas
-💬 Ask me about: AI and P
+
+💬 Ask me about: Ai, Coding and Learning Programs
+
 ⚡ Fun fact: I love PCs 💻
+
 🛠️ Tech Stack
+
 - Languages: JavaScript, HTML, C++
 - Frameworks: React, Node.js
 - Tools & Platforms: Git, Antigravity
