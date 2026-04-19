@@ -17,6 +17,7 @@ I'm a passionate developer who enjoys building projects and learning new technol
 - Tools & Platforms: Git, Antigravity
 
 🌐 Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/raees-sahith-samsudeen
 
 Email: raeessamsudeen@gmail.com
